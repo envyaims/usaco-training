@@ -1,2 +1,2 @@
 # usaco-training
-bruh
+train.usaco.org
